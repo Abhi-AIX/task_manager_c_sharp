@@ -1,0 +1,14 @@
+D:\source\TaskManagerSolution\TaskManagerProject\obj\Debug\net8.0\TaskManagerProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\TaskManagerSolution\TaskManagerProject\obj\Debug\net8.0\TaskManagerProject.AssemblyInfoInputs.cache
+D:\source\TaskManagerSolution\TaskManagerProject\obj\Debug\net8.0\TaskManagerProject.AssemblyInfo.cs
+D:\source\TaskManagerSolution\TaskManagerProject\obj\Debug\net8.0\TaskManagerProject.csproj.CoreCompileInputs.cache
+D:\source\TaskManagerSolution\TaskManagerProject\bin\Debug\net8.0\TaskManagerProject.exe
+D:\source\TaskManagerSolution\TaskManagerProject\bin\Debug\net8.0\TaskManagerProject.deps.json
+D:\source\TaskManagerSolution\TaskManagerProject\bin\Debug\net8.0\TaskManagerProject.runtimeconfig.json
+D:\source\TaskManagerSolution\TaskManagerProject\bin\Debug\net8.0\TaskManagerProject.dll
+D:\source\TaskManagerSolution\TaskManagerProject\bin\Debug\net8.0\TaskManagerProject.pdb
+D:\source\TaskManagerSolution\TaskManagerProject\obj\Debug\net8.0\TaskManagerProject.dll
+D:\source\TaskManagerSolution\TaskManagerProject\obj\Debug\net8.0\refint\TaskManagerProject.dll
+D:\source\TaskManagerSolution\TaskManagerProject\obj\Debug\net8.0\TaskManagerProject.pdb
+D:\source\TaskManagerSolution\TaskManagerProject\obj\Debug\net8.0\TaskManagerProject.genruntimeconfig.cache
+D:\source\TaskManagerSolution\TaskManagerProject\obj\Debug\net8.0\ref\TaskManagerProject.dll
