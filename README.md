@@ -12,13 +12,6 @@ This is a clean, beginner-friendly C# console app that mimics a basic task manag
 - Estimate task/project cost using accurate numeric conversions
 - Auto-resize task array when reaching max capacity
 
-## Project Structure
-TaskManagerProject/
-├── Program.cs // Main console logic
-├── MyTask.cs // Custom class to represent a task
-├── /Assets/
-│ ├── Infographics/ // Concept images: value types, conversions, arrays
-│ └── Docs/ // Learning PDFs
 
 ## Concepts Covered
 
